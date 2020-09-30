@@ -1,0 +1,7 @@
+{
+	"username": "username",
+	"password": "password",
+	"refreshTime": "10",
+	"isShow": "True",
+	"isRepeatForward": "False"
+}
